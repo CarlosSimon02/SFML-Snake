@@ -2,7 +2,7 @@
 
 A simple snake game made with SFML.
 
-##Build with CMake
+## Build with CMake
 
 ```cmd
 mkdir build
