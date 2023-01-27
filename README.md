@@ -9,3 +9,5 @@ mkdir build
 cmake -S . -B /build
 cmake --build /build
 ```
+
+![Snake game screenshot](images/screenshot.png)
